@@ -4,4 +4,38 @@ nelle indagini multiscopo si  adottano due metodi.
 1(pen and paper)
 2) intervista diretta
 
--
+-(Vedi registrazione di oggi) 17/10/2018
+------------------------------ approccio da disegno
+misurazione e rappresentazione
+
+---------------
+misurazione
+1) construtto: (Quello che si cerca di misurare  tramite indagini eg) (Test qi, percezione sicurezza cittadini, a questo livello la formulazione è astratta e suscettibile di più interpretazioni.)
+2) misurazione: La variabile del construtto (elementi indagini. più concretamente sono la realizzazione dei costrutti,ad esempio nell’indagine multiscopo “sicurezza dei cittadini” la sicurezza
+nella zona in cui si vive è misurata attraverso una serie di domande nel
+questionario:"quanto ti senti sicuro a camminare in una strada buia?" )
+3)risposta: (Semplici opzioni predefinte quindi l'analista predefinisce variabile).
+(esempi di De Stefano)
+La natura delle risposte è determinata dal modo in cui si definisce la
+misurazione (es: natura qualitativa, quantitativa)
+Quando la misurazione è effettuata mediante domande in un
+questionario l’unità statistica ha vari modi di produrre la risposta
+- Può ricorrere al ricordo
+- Può ricorrere ad un documento (es: domanda su
+personale impiegato presso un’azienda)
+- Può ricorrere ad informazioni fornite da un’altra persona
+(es: chiedere al partner).
+
+4) risposta Processata 
+6) survey statistic
+
+-------------------------
+rappresentazione
+
+1) popolazione target (formalità)
+2) sampling frame
+3)sample
+4) respondents
+5)post survey adjustment
+6) risultato
+-----------------------------
