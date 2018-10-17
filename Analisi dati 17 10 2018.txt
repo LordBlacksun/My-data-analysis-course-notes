@@ -65,7 +65,7 @@ e che contenga tutte e solo la target population, perchè qualche volta si campi
 
 Modifiche al susseguirsi del questionario, (se categorie di persone non rispondono ad alcuni item del questionario o non rispondono proprio.)
 
-bisogna ripristina rappresentività del questionario
+bisogna ripristinare rappresentività del questionario
 
 esempi di De Stefano
 "dopo la fase di rilevazione e aver costruito la matrice dati per i
