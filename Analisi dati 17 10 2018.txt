@@ -11,11 +11,17 @@ misurazione e rappresentazione
 ---------------
 misurazione
 1) construtto: (Quello che si cerca di misurare  tramite indagini eg) (Test qi, percezione sicurezza cittadini, a questo livello la formulazione è astratta e suscettibile di più interpretazioni.)
+(deve consentire la costruzione di una o più variabili, per essere valido)
+
 2) misurazione: La variabile del construtto (elementi indagini. più concretamente sono la realizzazione dei costrutti,ad esempio nell’indagine multiscopo “sicurezza dei cittadini” la sicurezza
+
+(errore di misurazione: il passaggio da variabile a risposta, si evita facendo dei test del questionario.
+)
 nella zona in cui si vive è misurata attraverso una serie di domande nel
 questionario:"quanto ti senti sicuro a camminare in una strada buia?" )
 3)risposta: (Semplici opzioni predefinte quindi l'analista predefinisce variabile).
 (esempi di De Stefano)
+
 La natura delle risposte è determinata dal modo in cui si definisce la
 misurazione (es: natura qualitativa, quantitativa)
 Quando la misurazione è effettuata mediante domande in un
@@ -26,16 +32,53 @@ personale impiegato presso un’azienda)
 - Può ricorrere ad informazioni fornite da un’altra persona
 (es: chiedere al partner).
 
-4) risposta Processata 
+4) risposta Processata
 6) survey statistic
 
 -------------------------
 rappresentazione
 
-1) popolazione target (formalità)
+1) popolazione target (formalità) : La popolazione oggetto di interesse per l’indagine
+
+questo è il livello più astratto di definizione della popolazione di
+interesse
+
+si definisce in base agli obeittivi dell’indagine
+
+ad es. nell’indagine multiscopo “sicurezza dei cittadini” la target
+population è l’insieme dei residenti in Italia con età superiore a 14
+
+il concetto di tale popolazione è astratto in quanto non viene
+menzionato, ad esempio, il riferimento temporale (> 14 anni al 1 ◦
+Gennaio 2016)
+
 2) sampling frame
+popolazione effettiva che viene indagata
+(in pratica lista di campionamento si spera sia più possibile aderente alla target population)
+e che contenga tutte e solo la target population, perchè qualche volta si campiona variabili che non ci interessano, e queste vanno scartate.
+
 3)sample
+
 4) respondents
+
 5)post survey adjustment
+
+Modifiche al susseguirsi del questionario, (se categorie di persone non rispondono ad alcuni item del questionario o non rispondono proprio.)
+
+bisogna ripristina rappresentività del questionario
+
+esempi di De Stefano
+"dopo la fase di rilevazione e aver costruito la matrice dati per i
+rispondenti è possibile avere dei problemi di sovra- o
+sotto-rappresentazione di particolari sottogruppi della target population
+dovuti a:
+- Non corrispondenza della frame population con la target
+population (problemi di copertura)
+- Non rispondenti"
+ulteriore esempio: Il sottogruppo di una popolazione è sottorappresentato
+(Eg 50 enni in una indagoine via internet sotto rappresentati.)
+è possible fare aggiustamenti anche al peso degli indvidui all'interno dell' indagine
+
+
+
 6) risultato
------------------------------
